@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T19:08:12.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="yEO01vBIDooXZqgppepj" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-19T02:25:39.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="d0ahOmB1sp5U2tVmrxnA" version="14.2.9" type="github">
   <diagram id="sxFb32--8e4wR0iH9e16" name="第 1 页">
-    <mxGraphModel dx="1609" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,12 +48,6 @@
         </mxCell>
         <mxCell id="aJro9Kg1pv4m-QFBHfxA-57" value="打榜" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="-390" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aJro9Kg1pv4m-QFBHfxA-62" value="" style="endArrow=classic;html=1;strokeColor=#6666FF;fillColor=#9999FF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aJro9Kg1pv4m-QFBHfxA-29">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-340" y="-160" as="sourcePoint" />
-            <mxPoint x="-320" y="-216" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="aJro9Kg1pv4m-QFBHfxA-63" value="存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-350" y="-229" width="60" height="80" as="geometry" />
@@ -122,6 +116,12 @@
         </mxCell>
         <mxCell id="aJro9Kg1pv4m-QFBHfxA-87" value="管理台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="-753" y="-348" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aJro9Kg1pv4m-QFBHfxA-88" value="" style="endArrow=classic;startArrow=classic;html=1;fillColor=#9999FF;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#9AC7BF;" edge="1" parent="1" source="aJro9Kg1pv4m-QFBHfxA-63" target="aJro9Kg1pv4m-QFBHfxA-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-560" y="-30" as="sourcePoint" />
+            <mxPoint x="-510" y="-80" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
